@@ -1,6 +1,8 @@
 # Proyecto-ALBOS
 Aquí estaremos creando y guardando todo lo relacionado al proyecto.
 
+**Necesitan documentar el proyecto en Github**
+
 #**Integrantes** 
 - Cristhian Said Gálvez Espinoza 24155 
 - Samuel Benjamín Lanza Valladares 24035
