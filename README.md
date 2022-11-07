@@ -13,3 +13,6 @@ Aquí estaremos creando y guardando todo lo relacionado al proyecto.
 - Litzy Alejandra Alfaro Sagastume 24267
 - Juan Esteban Giménez Benítez 24242
 - Brayan David Henrriquez Vasquez (24122)
+
+#El informe final 
+Se encuentra subido en la carpeta de documentación, y ya está completo con todos los parámetros requeridos.
